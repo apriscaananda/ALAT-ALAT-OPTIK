@@ -1,4 +1,4 @@
-public class AnandaDwiNingsih {
+public class AnandaDwiNingsih(353) {
 
     public static void main(String[] args) {
         String fullname = "Dwi Ningsih";
@@ -13,4 +13,3 @@ public class AnandaDwiNingsih {
     }
 
 }
-  
