@@ -1,4 +1,0 @@
-E:.
-introduction
-  AnandaApriscaAnandaRosdianti.java
-  
